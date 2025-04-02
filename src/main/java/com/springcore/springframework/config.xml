@@ -14,4 +14,10 @@
 								<property name="name" value="Avinash" />
 								<property name="city" value="Pune" />
 							</bean>
+							
+							<bean class="com.springcore.springframework.Student" name="std2">
+								<property name="rollno" value="2" />
+								<property name="name" value="Priyansh" />
+								<property name="city" value="Hadapsar" />
+							</bean>
 			</beans>
